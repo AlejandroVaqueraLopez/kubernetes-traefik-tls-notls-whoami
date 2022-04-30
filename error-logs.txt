@@ -1,0 +1,17 @@
+No secret name provided" providerName=kubernetescrd
+
+level=error msg="the router default-ingressroutetls-621064302f3a1be970d4@kubernetescrd uses a non-existent resolver: default"
+
+time="2022-04-28T06:11:08Z" level=debug msg="http: TLS handshake error from <ip>: remote error: tls: bad certificate"
+
+time="2022-04-28T06:49:16Z" level=debug msg="http: TLS handshake error from <ip>: tls: client offered only unsupported versions: []"
+
+time="2022-04-28T06:49:52Z" level=debug msg="http: TLS handshake error from <ip>: tls: no cipher suite supported by both client and server"
+
+time="2022-04-28T06:51:40Z" level=debug msg="http: TLS handshake error from <ip>: EOF"
+
+time="2022-04-28T06:51:41Z" level=debug msg="http: TLS handshake error from <ip>: tls: client requested unsupported application protocols ([http/0.9 http/1.0 spdy/1 spdy/2 spdy/3 h2c hq])"
+
+time="2022-04-28T07:00:04Z" level=debug msg="http: TLS handshake error from <ip>: remote error: tls: unknown certificate"
+
+time="2022-04-28T07:30:08Z" level=debug msg="http: TLS handshake error from <ip>: local error: tls: bad record MAC"
