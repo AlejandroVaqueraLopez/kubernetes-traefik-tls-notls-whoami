@@ -1,6 +1,6 @@
 # kubernetes-traefik-tls-notls-whoami
 ## Prueba tecnica 1, kubernetes, imagen whoami con traefik v2.6, reverse proxy con tls y notls
-**Crear una aplicacion whoami con las siguientes caracteristicas **
+**Crear una aplicacion whoami con las siguientes caracteristicas**
 * 2 Replicas 
 * 2 Rutas | Una con certificado SSL y otra sin el.
 * Deben responder al Path /tls y /notls.
